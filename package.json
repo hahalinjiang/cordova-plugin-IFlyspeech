@@ -1,0 +1,11 @@
+{
+  "name": "cordova-plugin-iflyspeech",
+  "version": "1.0.0",
+  "description": "科大讯飞的语音听说读写的cordova插件  ### Supported Platforms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

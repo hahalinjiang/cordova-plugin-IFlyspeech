@@ -6,7 +6,7 @@
 - android
 
 ## Installation
-
+###cordova plugin add https://github.com/hahalinjiang/cordova-plugin-IFlyspeech
 
     xunfeiListenSpeaking.startListen(success, error, isShow,isPunc);
     xunfeiListenSpeaking.stopListen();
